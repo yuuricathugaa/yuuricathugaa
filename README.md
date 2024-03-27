@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B231&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+amigo%2C+Bem-vindo+ao+meu+perfil!;Olá+amigo%2C+Bem+Vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B231&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+amigo%2C+Bem-vindo+ao+meu+perfil!;Olá+amigo%2C+Bem-Vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 ## 👋 Eu sou Yuri Catunda Ferreira de Sousa!
 <h3>🧑‍💻 Estou cursando Ciência da Computação na UFRPE e Sistemas para Internet na UNICAP<h3>  
 <div></div>
