@@ -14,11 +14,12 @@
 </div> 
 
 ## Minha Atividade
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yuuricathugaa&theme=radical&mode=weekly" width="55%" alt="GitHub Streak Stats">
-</div>
- &nbsp;
- &nbsp;
+  <a href="https://github.com/gabrielhilins">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=yuuricathugaa&show_icons=true&theme=radical">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuricathugaa&layout=compact&theme=radical">
+  </div>
  
 ## Você também me encontra em
 <div style="display: inline">
