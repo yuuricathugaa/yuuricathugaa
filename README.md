@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B231&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+,+Bem-vindo+ao+meu+perfil!;Olá,+Bem-Vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 ## 👋 Eu sou Yuri Catunda!
-<h3>🧑‍💻 Estou cursando Ciência da Computação na UFRPE e Sistemas para Internet na UNICAP<h3>  
+<h3>🧑‍💻 Estou cursando Ciência da Computação na UFRPE e sou Graduado em Sistemas para Internet na UNICAP<h3>  
 <div></div>
 
 ## 🚀 Habilidades
