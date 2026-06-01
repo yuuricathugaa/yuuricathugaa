@@ -18,3 +18,4 @@
 ## Você também me encontra em
 <div style="display: inline">
 &nbsp;<a href="https://www.linkedin.com/in/yuri-catunda-5316402a3/">
+</div>
