@@ -13,9 +13,3 @@
   &nbsp;&nbsp;<img width='60' height='60' src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;&nbsp
   &nbsp;&nbsp;<img width='60' height='60' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp
 </div> 
-
- 
-## Você também me encontra em
-<div style="display: inline">
-&nbsp;<a href="https://www.linkedin.com/in/yuri-catunda-5316402a3/">
-</div>
