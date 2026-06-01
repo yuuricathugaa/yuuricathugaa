@@ -14,20 +14,7 @@
   &nbsp;&nbsp;<img width='60' height='60' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp
 </div> 
 
-## Minha Atividade
-
-<div align="center">
-  <a href="https://github.com/yuuricathugaa">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=yuuricathugaa&show_icons=true&theme=radical">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuricathugaa&layout=compact&theme=radical">
-  </div>
  
 ## Você também me encontra em
 <div style="display: inline">
 &nbsp;<a href="https://www.linkedin.com/in/yuri-catunda-5316402a3/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/yuri.catunda/?hl=pt_BR">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
-    </div>
